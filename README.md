@@ -128,4 +128,4 @@ Potential enhancements to this project include:
 
 ---
 
-© 2025 [Ayaan Syed] | Licensed under MIT License
+© 2025 [Ayaan Syed] | Licensed under Apache 2.0 License
